@@ -1,5 +1,8 @@
 ¿Quien soy? 👀
-Mi nombre es Leonel Franco Leal. Soy full stack developer residente en My cool logo
+Mi nombre es Leonel Franco Leal. Soy full stack developer residente en Argentina.
+
+Sobre mi
+Hce un tiempo desarrollé pasión por la programación y decidí entrar a Henry, en donde me enseñarian lo que sé, me gusta estar en constante aprendizaje y trato de dedicar el mayor tiempo posible a ello.
 
 **Contact me:**
 
