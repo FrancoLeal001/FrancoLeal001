@@ -1,4 +1,14 @@
-### Hi there 👋
+¿Quien soy? 👀
+Mi nombre es Leonel Franco Leal. Soy full stack developer residente en My cool logo
+
+**Contact me:**
+
+<a href="lealfranco39@gmail.com">
+    <img alt="Gmail" width="40px" src="https://uploads-ssl.webflow.com/5ad4c302a9ea3372eaea975f/5b995a276460dc98cf54bd11_Gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/franco-leal-910b94227/">
+    <img alt="Linkedin" width="40px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
+</a>
 
 <!--
 **FrancoLeal001/FrancoLeal001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
