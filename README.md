@@ -4,6 +4,7 @@ Mi nombre es Leonel Franco Leal. Soy full stack developer residente en Argentina
 ### Sobre mi 👀
 Hce un tiempo desarrollé pasión por la programación y decidí entrar a Henry, en donde me enseñarian lo que sé, me gusta estar en constante aprendizaje y trato de dedicar el mayor tiempo posible a ello.
 
+<img height="300"  align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 **Contact me:**
 
 <a href="lealfranco39@gmail.com">
@@ -20,7 +21,7 @@ Hce un tiempo desarrollé pasión por la programación y decidí entrar a Henry,
 <code><img height="20" src="https://i.ibb.co/Px2LCcG/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f746875.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 
 
 <!--
