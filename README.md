@@ -5,7 +5,8 @@ Mi nombre es Leonel Franco Leal. Soy full stack developer residente en Argentina
 Hce un tiempo desarrollé pasión por la programación y decidí entrar a Henry, en donde me enseñarian lo que sé, me gusta estar en constante aprendizaje y trato de dedicar el mayor tiempo posible a ello.
 
 <img height="300"  align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-**Contact me:**
+
+### **Contact me:**
 
 <a href="lealfranco39@gmail.com">
     <img alt="Gmail" width="40px" src="https://uploads-ssl.webflow.com/5ad4c302a9ea3372eaea975f/5b995a276460dc98cf54bd11_Gmail.png" />
